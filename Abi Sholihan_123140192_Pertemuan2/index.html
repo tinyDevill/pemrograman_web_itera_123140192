@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Jadwal Kuliah || Javascript Next Gen</title>
+        <link rel="stylesheet" href="index.css" />
+    </head>
+    <body>
+        <main class="container">
+            <h1>Jadwal Kuliah</h1>
+            <form id="form-jadwal">
+                <input type="text" id="matkul" placeholder="Nama Mata Kuliah" required />
+                <input type="text" id="dosen" placeholder="Nama Dosen" required />
+                <select name="hari" id="hari">
+                    <option value="senin">Senin</option>
+                    <option value="selasa">Selasa</option>
+                    <option value="rabu">Rabu</option>
+                    <option value="kamis">Kamis</option>
+                    <option value="jumat">Jum'at</option>
+                    <option value="sabtu">Sabtu</option>
+                    <option value="ahad">Ahad</option>
+                </select>
+                <input type="time" id="jam" required />
+                <button type="submit" id="submitbtn">Tambah Jadwal</button>
+            </form>
+
+            <table id="tabel-jadwal">
+                <thead>
+                    <tr>
+                        <th>Mata Kuliah</th>
+                        <th>Dosen</th>
+                        <th>Hari</th>
+                        <th>Jam</th>
+                        <th>Aksi</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </main>
+
+        <script type="module" src="main.js"></script>
+    </body>
+</html>
