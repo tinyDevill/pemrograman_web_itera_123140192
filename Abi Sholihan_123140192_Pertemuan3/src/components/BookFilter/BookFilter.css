@@ -1,0 +1,19 @@
+.bookfilter-container {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.bookfilter-input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+}
+
+.bookfilter-select {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+    background: white;
+}

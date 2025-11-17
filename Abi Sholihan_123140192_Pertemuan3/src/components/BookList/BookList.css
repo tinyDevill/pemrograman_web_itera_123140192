@@ -1,0 +1,50 @@
+.booklist-container {
+    margin-top: 20px;
+}
+
+.booklist-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.booklist-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background: #fafafa;
+}
+
+.booklist-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.edit-btn {
+    padding: 8px 12px;
+    background: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.delete-btn {
+    padding: 8px 12px;
+    background: #d32f2f;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.booklist-empty {
+    text-align: center;
+    color: #777;
+    margin-top: 20px;
+}
