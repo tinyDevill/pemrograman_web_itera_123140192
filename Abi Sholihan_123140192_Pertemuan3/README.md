@@ -23,9 +23,9 @@ Aplikasi web ini merupakan aplikasi yang dapat digunakan untuk membuat daftar da
 7. Mencari Buku
    ![Fitur mencari buku](https://drive.google.com/uc?export=view&id=1nqI5MlvNhA303kwP_4zeqHuQoGWNRh2k)
 9. Stats Buku
-    ![Fitur stats buku](https://drive.google.com/uc?export=view&id=1YwlihjxJ1jWQ4QBDmDk96AaIWC6_Niqf)
-11. Hasil Testing
-    ![Hasil testing aplikasi web](https://drive.google.com/uc?export=view&id=1YJG9NH0lGJCN-O-z24Im3KsEWk4WMAN5)
+   ![Fitur stats buku](https://drive.google.com/uc?export=view&id=1YwlihjxJ1jWQ4QBDmDk96AaIWC6_Niqf)
+11. Hasil Testing   
+   ![Hasil testing aplikasi web](https://drive.google.com/uc?export=view&id=1YJG9NH0lGJCN-O-z24Im3KsEWk4WMAN5)
 
 ## Fitur React Utama
 Fitur utama yang ada pada aplikasi web ini yaitu
